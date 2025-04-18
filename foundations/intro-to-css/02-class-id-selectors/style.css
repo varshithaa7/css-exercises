@@ -1,0 +1,16 @@
+.odd{
+background-color: lightpink;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#no2{
+color: blue;
+font-size: 36px;
+}
+.adjust-font{
+    font-size:24px;
+}
+
+#no4{
+background-color: rgb(62, 154, 149);
+font-weight: bold;
+}
